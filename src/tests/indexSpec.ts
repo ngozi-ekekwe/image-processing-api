@@ -11,3 +11,11 @@ describe('Express Server', () => {
     done();
   })
 })
+
+// test express server is running
+
+
+// test that an html file is renderend;
+
+
+// test that the function is actually resizing
