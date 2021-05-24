@@ -1,5 +1,5 @@
-import imageRoute from './imageProcessor';
+import imageRoute from "./imageProcessor";
 
 export default {
-  imageRoute
-}
+  imageRoute,
+};
